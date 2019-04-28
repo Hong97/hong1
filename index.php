@@ -59,3 +59,5 @@ function pageNotFound()
 // $controller->actionIndex();
 
 // print_r($_GET); 
+
+//do somethings
